@@ -1,1 +1,3 @@
-# heranca_multipla
+# Herança Multipla
+
+- Problema do diamante
